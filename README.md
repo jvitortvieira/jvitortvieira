@@ -14,14 +14,12 @@
 
 - 💻 Desenvolvedor focado em **back-end**, construindo projetos **fullstack**
 - 🐍 Trabalho com **Python** e **Django** no servidor
-- ⚡ Automatizo integrações e processos com **n8n**
 - 🌱 Ampliando meu repertório para entregar projetos completos, do servidor à interface
 
 ## 🇺🇸 About me
 
 - 💻 **Back-end** focused developer, building **full-stack** projects
 - 🐍 I work with **Python** and **Django** on the server side
-- ⚡ I automate integrations and workflows with **n8n**
 - 🌱 Broadening my skills to deliver complete projects, from server to interface
 
 ---
@@ -32,7 +30,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,django,html,git,github,vscode&perline=6" />
 <br/><br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ## 📊 GitHub Stats
 
