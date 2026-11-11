@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Hi%2C+I'm+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Back-end+com+Python+%2B+Django+%F0%9F%90%8D;Automa%C3%A7%C3%B5es+com+n8n+%E2%9A%A1;Construindo+projetos+fullstack+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-vieira-789aaa252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=jvitortvieira&style=for-the-badge&color=2C9CDB&label=VISITAS" />
 
 </div>
 
